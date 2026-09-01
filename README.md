@@ -1,4 +1,4 @@
-# NGS-Klf4-analysis
+# NGS-Klf4-analysis-public
 Scripts used for Next Generation Sequencing data analysis for mESC Klf4 project
 
 This repository contains scripts for processing RCMC/TT-seq/ATAC-seq/CUT&RUN data, including:
